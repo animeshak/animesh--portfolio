@@ -1,0 +1,11 @@
+<picture>
+  
+    <source srcset="https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg 801w,https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg?width=640 640w,https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg?width=480 480w,https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg?width=400 400w,https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg?width=320 320w,https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg?width=160 160w" sizes="100vw" type="image/jpeg">
+    <img class="position-absolute z-1 bottom-0 left-0 width-full height-full object-fit-cover d-block events-none" width="1500vw" height="800" loading="lazy" decoding="async" alt="" aria-hidden="true" src="https://github.githubassets.com/images/modules/site/home-campaign/footer-galaxy.jpg">
+  </picture>
+
+
+
+
+  photo of lines
+  https://github.githubassets.com/images/modules/site/home-campaign/git-branch-collaboration.svg
