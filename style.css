@@ -169,7 +169,7 @@
 
         .image-six {
           background-image: url("https://github.githubassets.com/images/modules/site/home-campaign/bg-stars-1.webp");
-          height: 100%;
+          height: 120%;
           width: 99.40%;
           padding-left: -10px;
           top: 234%;
@@ -187,5 +187,45 @@
           font-family: 'Arial', sans-serif;
           background: none;
           border: none;
-          padding: 12px;
+          padding: 20px;
+          }
+          .containerbox {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            
+          }
+          
+          .box {
+            width: 150px;
+            height: 150px;
+            background-color: #0e0220;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 15px;
+            border-radius: 15px;
+            overflow: hidden;
+            filter: drop-shadow(5px 5px 5px rgb(41, 10, 69));
+          }
+          
+          .box svg {
+            width: 70%; /* Adjust the size of the SVG logo */
+            height: auto;
+            fill: white; /* Color of the Java logo */
+          }
+          .text-skills {
+            position: absolute;
+            top: 5%;
+            left: 25%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            font-size: 35px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            z-index: 4; 
+            line-height: 0.2;
+            font-family: 'Arial', sans-serif;
           }
